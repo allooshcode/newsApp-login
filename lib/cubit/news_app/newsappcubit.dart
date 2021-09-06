@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:newsapp/cubit/newsappstetes.dart';
+import 'package:newsapp/cubit/news_app/newsappstetes.dart';
 import 'package:newsapp/network/remote/diohelper.dart';
 
 class NewsAppCubit extends Cubit<NewsStates> {

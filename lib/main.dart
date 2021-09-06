@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:newsapp/cubit/appshop/cubit_appshop.dart';
-import 'package:newsapp/cubit/newsappcubit.dart';
-import 'package:newsapp/cubit/observerofbloc.dart';
+import 'package:newsapp/cubit/news_app/newsappcubit.dart';
+import 'package:newsapp/cubit/news_app/observerofbloc.dart';
 import 'package:newsapp/layout/newsapp/cubit/news_layout.dart';
 import 'package:newsapp/layout/newsapp/cubit/onboardingscreen.dart';
 import 'package:newsapp/modules/onboarding/secondpageboarding.dart';

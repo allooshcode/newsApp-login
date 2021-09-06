@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:newsapp/cubit/newsappcubit.dart';
+import 'package:newsapp/cubit/news_app/newsappcubit.dart';
 import 'package:flutter/widgets.dart';
-import 'package:newsapp/cubit/newsappstetes.dart';
+import 'package:newsapp/cubit/news_app/newsappstetes.dart';
 import 'package:newsapp/modules/searchmodules/search_screen.dart';
 import 'package:newsapp/shared/component/components.dart';
 

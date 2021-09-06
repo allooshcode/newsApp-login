@@ -2,8 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:newsapp/cubit/newsappcubit.dart';
-import 'package:newsapp/cubit/newsappstetes.dart';
+import 'package:newsapp/cubit/news_app/newsappcubit.dart';
+import 'package:newsapp/cubit/news_app/newsappstetes.dart';
 import 'package:newsapp/shared/component/components.dart';
 
 class SearchScreen extends StatelessWidget {
